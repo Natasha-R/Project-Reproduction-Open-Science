@@ -1,0 +1,15 @@
+﻿ , ,time,time,trial,trial,male/male main effect,male/male main effect,time:male/female interaction,time:male/female interaction
+model,AIC,coef,p-value,coef,p-value,coef,p-value,coef,p-value
+lme original data,17676.66,0.065,0.005,,,-0.077,0.0123,-0.065,0.0136
+lme duplicates removed,15515.08,0.063,0.0016,,,-0.066,0.0493,-0.06,0.0336
+lme first 5 trials removed,15583.07,0.038,0.058,,,-0.089,0.007,-0.058,0.0383
+lmer original data,16792.479,0.291,0,,,-0.332,0.014,-0.291,0.013
+lmer duplicates removed,14732.12,0.281,0.002,,,-0.283,0.054,-0.268,0.032
+lmer first 5 trials removed,14796.016,0.171,0.056,,,-0.389,0.008,-0.262,0.037
+no interaction terms,16796.433,0.229,0,,,-0.326,0.007,,
+random coefficient model,16783.348,0.308,0,,,-0.326,0.008,-0.299,0.013
+image as random,15725.209,0.324,0,,,-0.365,0.013,-0.322,0.008
+including trial,16770.985,-0.022,0.833,0.016,0,-0.331,0.014,-0.293,0.012
+including trial and image as random,15705.217,0.006,0.958,0.016,0,-0.364,0.013,-0.325,0.008
+including trial and image as nested random,16920.229,-0.005,0.969,0.019,0,-0.416,0,-0.36,0.006
+
