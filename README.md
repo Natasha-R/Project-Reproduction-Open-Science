@@ -5,8 +5,11 @@ The purpose of this work is to attempt to reproduce a study by re-using a publis
 Original dataset: https://doi.org/10.5061/dryad.9bg43   
 Original paper: https://doi.org/10.1371/journal.pone.0110497    
 
-The main Jupyter Notebooks uses for analyses are located here: https://github.com/Natasha-R/Project-Reproduction-Open-Science  
+The main Jupyter Notebooks used for analyses are located here: https://github.com/Natasha-R/Project-Reproduction-Open-Science  
 These can be viewed on Github, or the project can be downloaded and worked on locally. Guidelines to run the notebooks are included within the code.
+
+Our modified dataset is released under Attribution 4.0 International (CC BY 4.0).  
+Our research software is released under the MIT licence.  
 
 ## Description of project directory structure:
 
