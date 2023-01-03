@@ -8,6 +8,8 @@ Original paper: https://doi.org/10.1371/journal.pone.0110497
 The main Jupyter Notebooks used for analyses are located here: https://github.com/Natasha-R/Project-Reproduction-Open-Science  
 These can be viewed on Github, or the project can be downloaded and worked on locally. Guidelines to run the notebooks are included within the code.
 
+Our data management plan (DMP) is located here: https://github.com/Natasha-R/Project-Reproduction-Open-Science  
+
 Our modified dataset is released under Creative Commons Attribution 4.0 International (CC BY 4.0).  
 Our research software is released under the MIT licence.  
 
