@@ -1,7 +1,0 @@
-﻿ ,intercept,intercept,time,time,neutral main effect,neutral main effect,male/male main effect,male/male main effect,pathogen main effect,pathogen main effect,male/female main effect,male/female main effect,time:male/female interaction,time:male/female interaction
-reference,coef,p-value,coef,p-value,coef,p-value,coef,p-value,coef,p-value,coef,p-value,coef,p-value
-neutral,0.249,0.009,0.291,0,,,-0.332,0.014,-0.04,0.694,-0.047,0.725,-0.291,0.013
-male/male,-0.083,0.384,0.301,0,0.332,0.014,,,0.3278,0.041,0.284,0.034,-0.301,0.01
-male group,0.049,0.614,0.37,0,0.199,0.143,-0.132,0.333,0.146,0.29,0.152,0.262,-0.37,0.002
-male/female,0.202,0.033,0,0.998,0.047,0.725,-0.284,0.034,-0.006,0.962,,,,
-pathogen,0.195,0.045,0.195,0.022,0.054,0.693,-0.278,0.041,,,0.006,0.962,-0.195,0.098
