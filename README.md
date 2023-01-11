@@ -8,6 +8,11 @@ Original paper: https://doi.org/10.1371/journal.pone.0110497
 **The main Jupyter Notebooks used for analyses are located here:** https://github.com/Natasha-R/Project-Reproduction-Open-Science/tree/main/Reproduction%20Project/Reproduction%20Project%20Code
 These can be viewed on Github, or the project can be downloaded and worked on locally. Guidelines to run the notebooks are included within the code.
 
+1. [Cleaning and Exploring the Data](https://github.com/Natasha-R/Project-Reproduction-Open-Science/blob/main/Reproduction%20Project/Reproduction%20Project%20Code/1.%20Cleaning%20and%20Exploring%20Data.ipynb)  
+2. [Masculinity Preferences by Priming Group](https://github.com/Natasha-R/Project-Reproduction-Open-Science/blob/main/Reproduction%20Project/Reproduction%20Project%20Code/2.%20Masculinity%20preferences%20by%20priming%20group.ipynb)  
+3. [Masculinity Preferences over Time](https://github.com/Natasha-R/Project-Reproduction-Open-Science/blob/main/Reproduction%20Project/Reproduction%20Project%20Code/3.%20Masculinity%20over%20'time'.ipynb)  
+4. [Modelling the Data](https://github.com/Natasha-R/Project-Reproduction-Open-Science/blob/main/Reproduction%20Project/Reproduction%20Project%20Code/4.%20Modelling%20the%20data.ipynb)  
+
 **Our data management plan (DMP) is located here:** https://github.com/Natasha-R/Project-Reproduction-Open-Science/blob/main/Data%20Management%20Plan.pdf
 
 Our modified dataset is released under Creative Commons Attribution 4.0 International (CC BY 4.0).  
