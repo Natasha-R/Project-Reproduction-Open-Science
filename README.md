@@ -5,7 +5,7 @@ The purpose of this work is to attempt to reproduce a study by re-using a publis
 Original dataset: https://doi.org/10.5061/dryad.9bg43   
 Original paper: https://doi.org/10.1371/journal.pone.0110497    
 
-**The main Jupyter Notebooks used for analyses are located here:** https://github.com/Natasha-R/Project-Reproduction-Open-Science/tree/main/Reproduction%20Project%20Code
+**The main Jupyter Notebooks used for analyses are located here:** https://github.com/Natasha-R/Project-Reproduction-Open-Science/tree/main/Reproduction%20Project/Reproduction%20Project%20Code
 These can be viewed on Github, or the project can be downloaded and worked on locally. Guidelines to run the notebooks are included within the code.
 
 **Our data management plan (DMP) is located here:** https://github.com/Natasha-R/Project-Reproduction-Open-Science/blob/main/Data%20Management%20Plan.pdf
@@ -37,7 +37,7 @@ The “Reproduction Project” folder contains:
 
 The purpose of the original data collection, structure of the associated study, and meaning of the attributes in the dataset is described in the journal article: (https://doi.org/10.1371/journal.pone.0110497).
 
-In our modified dataset, (“main_study_face_data_cleaned.csv”) the contents of each of the attributes are:
+In our modified dataset, [“main_study_face_data_modified.csv”](https://github.com/Natasha-R/Project-Reproduction-Open-Science/blob/main/Reproduction%20Project/Main%20Study%20(Face)/main_study_face_data_modified.csv) the contents of each of the attributes are:
 
 | Attribute Name        | Attribute Meaning                                                                                                                                                                                                 | Attribute Contents                                                                         |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
