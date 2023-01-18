@@ -18,6 +18,10 @@ These can be viewed on Github, or the project can be downloaded and worked on lo
 Our modified dataset is released under Creative Commons Attribution 4.0 International (CC BY 4.0).  
 Our research software is released under the MIT licence.  
 
+# Update 18.01.2023
+
+As a result of our project work, we have been invited to write a correction for the original published article. Our ongoing work is therefore provided in the folder "Correction" and the following Jupyter notebook: https://github.com/Natasha-R/Project-Reproduction-Open-Science/blob/main/Correction/Correction%20Work.ipynb
+
 ## Description of project directory structure:
 
 The project directory contains:
@@ -26,6 +30,7 @@ The project directory contains:
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Folder: “Original Files”       | The original study files as provided by the original researchers.                                                      |
 | Folder: “Reproduction Project” | Our re-structuring and modifying of the original files, as well as additional datasets and software (code).            |
+| Folder: “Correction”           | Our work on writing a correction for the original article, based on our reproduction project work.                     |
 | PDF: “Data Management Plan”.   | Our current data management plan. Contains information about the datasets, software, metadata and contact information. |
 
 The “Reproduction Project” folder contains:
