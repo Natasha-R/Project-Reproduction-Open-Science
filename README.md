@@ -1,3 +1,7 @@
+# Update 18.01.2023
+
+As a result of our project work, we have been invited to write a correction for the original published article. Our ongoing work is therefore provided in the folder "Correction" and the following Jupyter notebook: https://github.com/Natasha-R/Project-Reproduction-Open-Science/blob/main/Correction/Correction%20Work.ipynb
+
 # Project Reproduction: Open Science
 
 The purpose of this work is to attempt to reproduce a study by re-using a published dataset, for the final project of the TH Köln (https://www.th-koeln.de/) module "Open Science" as part of the Digital Sciences Master's Degree. 
@@ -17,10 +21,6 @@ These can be viewed on Github, or the project can be downloaded and worked on lo
 
 Our modified dataset is released under Creative Commons Attribution 4.0 International (CC BY 4.0).  
 Our research software is released under the MIT licence.  
-
-# Update 18.01.2023
-
-As a result of our project work, we have been invited to write a correction for the original published article. Our ongoing work is therefore provided in the folder "Correction" and the following Jupyter notebook: https://github.com/Natasha-R/Project-Reproduction-Open-Science/blob/main/Correction/Correction%20Work.ipynb
 
 ## Description of project directory structure:
 
