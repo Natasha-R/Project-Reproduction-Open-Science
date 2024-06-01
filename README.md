@@ -1,6 +1,6 @@
 ## Update
 
-As a result of this work, we were invited to write a correction for the original published article. Related work is provided in the folder "Correction" and the following Jupyter notebook: [Correction Work.ipynb](https://github.com/Natasha-R/Project-Reproduction-Open-Science/blob/main/Correction/Correction%20Work.ipynb). The correction can be found at: [https://osf.io/preprints/psyarxiv/ap38y](https://osf.io/preprints/psyarxiv/ap38y).
+As a result of this work, we were invited to write a correction to the original published article. The related work is provided in the folder "Correction" and the following Jupyter notebook: [Correction Work.ipynb](https://github.com/Natasha-R/Project-Reproduction-Open-Science/blob/main/Correction/Correction%20Work.ipynb). The correction can be found at: [https://osf.io/preprints/psyarxiv/ap38y](https://osf.io/preprints/psyarxiv/ap38y).
 
 Our paper ["A reality check on research reproducibility in Open Science students’ projects"](https://doi.org/10.15460/apimagazin.2023.4.2.144) describes our experience of reproducing a study.
 ```
