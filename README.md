@@ -1,6 +1,18 @@
-# Update 18.01.2023
+## Update
 
-As a result of our project work, we have been invited to write a correction for the original published article. Our ongoing work is therefore provided in the folder "Correction" and the following Jupyter notebook: https://github.com/Natasha-R/Project-Reproduction-Open-Science/blob/main/Correction/Correction%20Work.ipynb
+As a result of this work, we were invited to write a correction for the original published article. Related work is provided in the folder "Correction" and the following Jupyter notebook: [Correction Work.ipynb](https://github.com/Natasha-R/Project-Reproduction-Open-Science/blob/main/Correction/Correction%20Work.ipynb). The correction can be found at: [https://osf.io/preprints/psyarxiv/ap38y](https://osf.io/preprints/psyarxiv/ap38y).
+
+Our paper ["A reality check on research reproducibility in Open Science students’ projects"](https://doi.org/10.15460/apimagazin.2023.4.2.144) describes our experience of reproducing a study.
+```
+@article{frick2023reality,
+  title={A reality check on research reproducibility in Open Science students’ projects},
+  author={Frick, Claudia and Bl{\"u}mm, Mirjam and Randall, Natasha and K{\"u}{\c{c}}{\"u}k, Berrak and Bailey, Drew},
+  journal={API Magazin},
+  volume={4},
+  number={2},
+  year={2023}
+}
+```
 
 # Project Reproduction: Open Science
 
